@@ -1,6 +1,6 @@
 # txt uploader
 
-# Made By PARADISE
+# Made By Allclassespatna ❤️
 
 
 ## DEPLOY TO HEROKU
